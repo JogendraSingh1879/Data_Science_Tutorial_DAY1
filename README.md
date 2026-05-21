@@ -30,7 +30,7 @@ Uses data from a small sample to draw conclusions about the entire population. [
 
 * Core Theories: Central Limit Theorem
 * Hypothesis Testing: Z-test, T-test, Chi-Square Test
-* Foundations: Probability Theory [16, 17, 18, 19, 20]
+
   ---------------------------------------
 
 modeling/)
